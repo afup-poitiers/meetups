@@ -12,4 +12,4 @@
 - Alexandre Vingtier (TCS) fera un focus sur l'importance de l'anglais au cours d'une journée type d'un développeur, du réveil au coucher !
      - PDF disponible en téléchargement
 - Nicolas Attard (NA Corp.) s'inspirera de vrais exemples pour vous présenter le Top 10 des choses à faire pour être sûr de ne pas être pris en stage (et donc à ne pas suivre ...)
-  - en attente
+    - PDF disponible en téléchargement
