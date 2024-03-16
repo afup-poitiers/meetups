@@ -1,4 +1,4 @@
-# $phrase_input
+# Structurer une application (DDD)
 
 Courte description du meetup
 

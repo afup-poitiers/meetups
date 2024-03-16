@@ -8,5 +8,4 @@
 - [2018-09-13 La veille à la plage](2018-09-13%20La%20veille%20à%20la%20plage/INDEX.md)
 - [2018-10-18 Varnish et Redis](2018-10-18%20Varnish%20et%20Redis/INDEX.md)
 - [2018-11-14 Gitlab-ci](2018-11-14%20Gitlab-ci/INDEX.md)
-- [2018-12-13 Mercure, PHP pour les null et retours du Forum PHP](2018-12-13%20Mercure,%20PHP%20pour%20les%20null%20et%20retours%20du%20Forum%20PHP/INDEX.md)
 - [2018-12-13 Mercure, PHP pour les null](2018-12-13%20Mercure,%20PHP%20pour%20les%20null/INDEX.md)

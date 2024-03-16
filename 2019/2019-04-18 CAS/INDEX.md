@@ -1,4 +1,4 @@
-# $phrase_input
+# CAS
 
 Courte description du meetup
 

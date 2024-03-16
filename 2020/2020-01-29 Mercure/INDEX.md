@@ -1,4 +1,4 @@
-# $phrase_input
+# Mercure
 
 Courte description du meetup
 

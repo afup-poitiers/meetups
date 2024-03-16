@@ -1,4 +1,4 @@
-# $phrase_input
+# Symfony Messenger
 
 Courte description du meetup
 

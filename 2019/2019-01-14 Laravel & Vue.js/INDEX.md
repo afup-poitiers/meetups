@@ -1,4 +1,4 @@
-# $phrase_input
+# Laravel & Vue.js
 
 Courte description du meetup
 

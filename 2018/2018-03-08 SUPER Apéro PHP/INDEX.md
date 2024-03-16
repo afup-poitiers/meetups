@@ -26,3 +26,16 @@ De la bonne humeur et des antisèches pour le quizz
 
 Important
 
+## 📜 Description
+
+Description avancée du sujet du meetup.
+
+- [TWITTER](https://twitter.com/speaker_username)
+
+## 📂 Documents
+
+Documents transmit par le speaker.
+
+## 💖 Sponsors
+
+- ...

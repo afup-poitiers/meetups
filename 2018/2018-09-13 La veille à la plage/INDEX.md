@@ -8,3 +8,16 @@ Ce sera aussi et surtout l'occasion de vous présenter le programme de l'année 
 
 Et comme d'hab', il y a une licence Phpstorm à gagner... pour le plus chanceux ou le plus méritant (celui qui acceptera de co-animer une conf'!)
 
+## 📜 Description
+
+Description avancée du sujet du meetup.
+
+- [TWITTER](https://twitter.com/speaker_username)
+
+## 📂 Documents
+
+Documents transmit par le speaker.
+
+## 💖 Sponsors
+
+- ...

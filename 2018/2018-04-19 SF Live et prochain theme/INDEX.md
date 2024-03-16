@@ -8,3 +8,16 @@ Nous nous réunirons au bar le Zinc (en haut de la grand' rue) pour prendre un p
 -> Vous annoncer le thème de notre grosse conf' de printemps, qui aura lieue le 31 mai (et le nom de la guest-star !)
 -> Les élections de votre antenne AFUP (le 31 mai aussi). Si vous souhaitez déjà en savoir plus vous pouvez cliquer là : https://afup.org/news/993-les-antennes-designent-leurs-representants
 
+## 📜 Description
+
+Description avancée du sujet du meetup.
+
+- [TWITTER](https://twitter.com/speaker_username)
+
+## 📂 Documents
+
+Documents transmit par le speaker.
+
+## 💖 Sponsors
+
+- ...
