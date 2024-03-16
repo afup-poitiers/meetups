@@ -13,7 +13,7 @@ Les geeks s’en tireront peut-être avec des dégâts mineurs, mais faut-il aba
 Pierre Beyssac est fondateur de [eriomem.net](https://eriomem.net), [nic.eu.org](http://nic.eu.org) et [gandi.net](http://gandi.net).<br>
 Pierre est aussi porte-parole du [Parti Pirate](https://partipirate.org/)
 
-Vous pouvez suivre Pierre sur son [twitter@pbeyssac](https://twitter.com/pbeyssac)
+Vous pouvez suivre Pierre sur Twitter [@pbeyssac](https://twitter.com/pbeyssac)
 
 ## 📂 Documents
 
