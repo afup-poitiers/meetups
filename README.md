@@ -22,8 +22,8 @@ Que vous ayez assisté à un événement ou que vous souhaitiez simplement explo
 | 2020  | ...     |  [Index](./2020/INDEX.md) |
 | 2021  | ...     |  [Index](./2021/INDEX.md) |
 | 2022  | ...     |  [Index](./2022/INDEX.md) |
-| 2023  | ...     |  [Index](./2023/INDEX.md) |
-| 2024  | ...     |  [Index](./2024/INDEX.md) |
+| 2023  | 6       |  [Index](./2023/INDEX.md) |
+| 2024  | 2       |  [Index](./2024/INDEX.md) |
 
 ## 🙏 Contributeurs
 
@@ -49,21 +49,25 @@ Nous accueillons favorablement toutes les contributions à ce projet ! Si vous s
 
 ## 🔗 Liens Utiles
 
-- X (Twitter): [AFUP_Poitiers](https://twitter.com/AFUP_Poitiers)
-- Meetup: [afup-poitiers-php](https://www.meetup.com/afup-poitiers-php/)
+- Twitter : [@AFUP_Poitiers](https://twitter.com/AFUP_Poitiers)
+- Meetup : [afup-poitiers-php](https://www.meetup.com/afup-poitiers-php/)
 
 N'hésitez pas à nous contacter si vous avez des questions, des suggestions ou des commentaires.<br>
 Merci de contribuer à rendre ce projet meilleur pour la communauté !
 
 ## 💖 Sponsors
 
-Un big up à nos deux co-fondateurs sans qui l'antenne n'existera pas
+Un big up à nos deux co-fondateurs sans qui l'antenne n'existerait pas
 
 - [Nicolas Attard](https://twitter.com/verzuli)
 - [Yoann Leroux](https://twitter.com/izi2c)
 
-Un grand merci à nos sponsors qui nous permettent de faire vivre cette aventure au fil des années
+Un grand merci à nos sponsors permanents qui nous permettent de faire vivre cette aventure au fil des années
 
 - [cobaltpoitiers](https://twitter.com/cobaltpoitiers) pour leur accueil permanent depuis le début de l'aventure
 - [reseauSPN](https://twitter.com/reseauSPN) pour leur soutien dans notre objectif de partager la connaissance 
-- [Yousignfr](https://twitter.com/Yousignfr) pour leur engagement dans l'aventure
+
+Et nous n'oublions pas ceux qui contribuent de façon spontannée pour que votre apéro soit des plus agréable
+
+- [NA Corp.](https://www.nacorp.fr/) 
+- [Yousignfr](https://twitter.com/Yousignfr)
