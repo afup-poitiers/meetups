@@ -13,16 +13,4 @@ Les inscriptions sont gratuites mais obligatoires, les places sont limitées.
 En espérant vous voir nombreux,
 Bertrand, Yoann et Nicolas.
 
-## 📜 Description
-
-Description avancée du sujet du meetup.
-
-- [TWITTER](https://twitter.com/speaker_username)
-
-## 📂 Documents
-
 https://speakerdeck.com/hhamon/designing-better-object-oriented-software-with-php
-
-## 💖 Sponsors
-
-- ...

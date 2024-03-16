@@ -12,26 +12,16 @@ Démonstration de Mercure : une nouvelle façon de pousser des mises à jour en 
 Au plaisir de vous voir nombreux,
 L'équipe Afup Poitiers
 
-## 📜 Description
+## PHP pour les null
 
-Description avancée du sujet du meetup.
-
-- [TWITTER](https://twitter.com/speaker_username)
-
-## 📂 Documents
-
-**PHP pour les null**
+### Support 
 
 https://docs.google.com/presentation/d/1lJ4SXk3KDXdcI1IESIrgMduJG3V2vqbii1x9F7l-zCQ/edit?usp=sharing
 
-**Retours du Forum PHP**
+## Retours du Forum PHP
 
-En live
+En attente... ;-)
 
-**Démonstration de Mercure**
+## Démonstration de Mercure
 
-En live
-
-## 💖 Sponsors
-
-- ...
+En attente... ;-)

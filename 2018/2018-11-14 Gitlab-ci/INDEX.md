@@ -9,16 +9,6 @@ Cette soirée sera composée d'un talk présenté par Clément Bourreau à l'iss
 Au plaisir de vous voir nombreux,
 L'équipe Afup Poitiers
 
-## 📜 Description
-
-Description avancée du sujet du meetup.
-
-- [TWITTER](https://twitter.com/speaker_username)
-
-## 📂 Documents
+## Support
 
 https://github.com/afup-poitiers/meetups/blob/master/2018-11-14%20Gitlab-ci/AFUP%20%20-%20Int%C3%A9gration%20continue%20avec%20Gitlab%20v1.0.pdf
-
-## 💖 Sponsors
-
-- ...

@@ -1,4 +1,4 @@
-# Emploi & Formation
+# $phrase_input
 
 - Yoann Leroux (Extrabat) vous présentera le dernier baromètre de l'AFUP, véritable tableau de bord sur l'emploi des développeuses et développeurs PHP en France
   - PDF disponible en téléchargement
