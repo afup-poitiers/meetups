@@ -1,4 +1,4 @@
-# Dév : les facteurs clés pour faire réussir sa startup
+# Développement : les facteurs clés de succès d'une startup web
 
 Le SPN et l'antenne AFUP de Poitiers vous invitent à une soirée Techno : conférence suivie d'un apéro.
 
@@ -6,14 +6,12 @@ Conférence : "Développement : les facteurs clés de succès d'une startup web"
 
 ## 📜 Description
 
-Description avancée du sujet du meetup.
-
-- [TWITTER](https://twitter.com/speaker_username)
+- [@jeremyFreeAgent](https://twitter.com/jeremyFreeAgent)
 
 ## 📂 Documents
 
-Documents transmit par le speaker.
+Aucun documents disponibles.
 
 ## 💖 Sponsors
 
-- ...
+N/A
