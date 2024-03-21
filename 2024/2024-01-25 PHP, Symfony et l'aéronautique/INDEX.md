@@ -10,12 +10,11 @@ Est-ce possible (et simple) avec PHP et Symfony ?
 <br>
 Venez découvrir le monde de l'aéronautique et de la cartographie avec un exemple concret d'application utilisée par de nombreux télépilotes.
 
-- [TWITTER](https://twitter.com/speaker_username)
-
 ## 📂 Documents
 
-Documents transmit par le speaker.
+Aucun documents disponibles.
 
 ## 💖 Sponsors
 
-- ...
+- [@cobaltpoitiers](https://twitter.com/cobaltpoitiers)
+- [@Yousignfr](https://twitter.com/Yousignfr)
