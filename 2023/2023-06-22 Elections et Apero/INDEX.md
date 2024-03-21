@@ -39,7 +39,7 @@ Un peu comme à la télé, mais sans les pubs et avec notre traditionnel apéro.
 
 ## 📂 Documents
 
-N/A
+Aucun documents disponibles.
 
 ## 💖 Sponsors
 
