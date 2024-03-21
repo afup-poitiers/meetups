@@ -14,8 +14,8 @@ During this talk, we will see how to bring the business intent back inside the R
 
 ## 📂 Documents
 
-Documents transmit par le speaker.
+Aucun documents disponibles.
 
 ## 💖 Sponsors
 
-- ...
+N/A
